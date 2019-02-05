@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-01-07T14:46:41.087Z</updated>
+  <updated>2019-02-05T15:18:20.640Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,19 +17,20 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>weekly-plan（2019.1.07）</title>
-    <link href="http://yoursite.com/2019/01/07/weekly-plan/"/>
-    <id>http://yoursite.com/2019/01/07/weekly-plan/</id>
-    <published>2019-01-07T12:52:22.000Z</published>
-    <updated>2019-01-07T14:46:41.087Z</updated>
+    <title>weekly-plan（2019.2.5)</title>
+    <link href="http://yoursite.com/2019/02/05/weekly-plan/"/>
+    <id>http://yoursite.com/2019/02/05/weekly-plan/</id>
+    <published>2019-02-05T13:15:00.000Z</published>
+    <updated>2019-02-05T15:18:20.640Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="weekly-plan-very-first-published"><a href="#weekly-plan-very-first-published" class="headerlink" title="weekly plan(very first published)"></a>weekly plan(<em>very first published</em>)</h1><blockquote><p>&emsp;&emsp;今天是2019年1月7日，刚刚熬过了疲惫和慌张的<del>考试周</del>(再也不想经历第二次），同时也走到了这个学期末尾，最后的两周课设看起来也是混的，为了抓住大三的尾巴，猥琐发育一波，破天荒地做一波周计划来督促一下自己。</p></blockquote><hr><h2 id="todo-list"><a href="#todo-list" class="headerlink" title="todo list:"></a>todo list:</h2><table><thead><tr><th style="text-align:center">project</th><th>weight</th></tr></thead><tbody><tr><td style="text-align:center">javaweb</td><td><strong>*</strong></td></tr><tr><td style="text-align:center">课设报告</td><td>***</td></tr></tbody></table><p>大体的任务就这三项,其中javaweb是权重最高的,必须保证自己动手完成，期间记录遇到的问题和自己的一些理解.</p><h2 id="timetable"><a href="#timetable" class="headerlink" title="timetable:"></a>timetable:</h2><table><thead><tr><th style="text-align:center"></th><th style="text-align:center">Tue</th><th style="text-align:center">Wed</th><th style="text-align:center">Thu</th><th style="text-align:center">Fri</th><th style="text-align:center">Sat</th><th style="text-align:center">Sun</th></tr></thead><tbody><tr><td style="text-align:center">Morning</td><td style="text-align:center">课设</td><td style="text-align:center">课设</td><td style="text-align:center">课设</td><td style="text-align:center">课设</td><td style="text-align:center">advanced   function</td><td style="text-align:center">advanced function</td></tr><tr><td style="text-align:center">Afternoon</td><td style="text-align:center">login</td><td style="text-align:center">message</td><td style="text-align:center">message    management</td><td style="text-align:center">admin  management</td><td style="text-align:center">advanced   function</td><td style="text-align:center">advanced function</td></tr><tr><td style="text-align:center">Night</td><td style="text-align:center">login</td><td style="text-align:center">message</td><td style="text-align:center">message    management</td><td style="text-align:center">admin  management</td><td style="text-align:center">advanced   function</td><td style="text-align:center">summary</td></tr><tr><td style="text-align:center">completion</td><td style="text-align:center"></td><td style="text-align:center"></td><td style="text-align:center"></td><td style="text-align:center"></td><td style="text-align:center"></td></tr></tbody></table><p>ps：以上只是初步拟定的时间表，由于此前并没有进行过类似的项目开发，模块和时间的分配完全依照自己的猜想，实际情况可能有偏差，不过总之，必须在周末作出成果来！</p><h2 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h2><p>&emsp;&emsp;这篇周计划是我博客里的第一篇文章，其实从很久以前开始就打算开始写博客，但是由于自己的拖延症一直到今天晚上才真正开始。写之前感觉写文章，只要把自己脑子里东西的写下来就行了，应该不会太费事，但是真正写的时候才发现自己的表述能力还是有很大欠缺，很多想说的不知该如何得体的写出来，还是得多练才行。希望自己能够从此开始，坚持每周都有一份周计划和周总结，对知识有自己的理解时也要写出来，努力提高自己的表述能力和执行力！(markdown也不太会用啊～～～)</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="weekly-plan"><a href="#weekly-plan" class="headerlink" title="weekly plan"></a>weekly plan</h1><blockquote><p>&emsp;&emsp;今天是2019年2月5日，农历正月初一，也就是春节，在这个辞旧迎新的日子里，我决定重启我的weekly—plan计划（由于种种原因荒了将近一个月），废话（忏悔～～）不多说了，直奔主题。</p></blockquote><hr><h2 id="todo-list"><a href="#todo-list" class="headerlink" title="todo list:"></a>todo list:</h2><table><thead><tr><th style="text-align:center"></th><th style="text-align:center">weight</th></tr></thead><tbody><tr><td style="text-align:center">hadoop入门(2-4)</td><td style="text-align:center">***</td></tr><tr><td style="text-align:center">面经java部分</td><td style="text-align:center">***</td></tr><tr><td style="text-align:center">数据结构与算法（11-20）</td><td style="text-align:center">***</td></tr><tr><td style="text-align:center">java核心技术36讲(1-5)</td><td style="text-align:center">*</td></tr></tbody></table><h2 id="timetable"><a href="#timetable" class="headerlink" title="timetable:"></a>timetable:</h2><ul><li>2.06 ： hadoop（207） ， 面经2小时， 数据结构（排序），java（1）</li><li>2.07 ： hadoop（304）， 面经2小时， 数据结构（排序2），java（2）</li><li>2.08 ： hadoop（309）， 面经2小时，数据结构（二分查找），java（3）</li><li>2.09 ： hadoop（405） ， 面经2小时， 数据结构（跳表），java（4）</li><li>2.10 ： hadoop（408） ， 面经2小时， 数据结构（散列表），java（5）</li><li>2.11 ： hadoop（410） ， 面经2小时， 数据结构（散列表）</li></ul><h2 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h2><p>&emsp;&emsp;寒假已过半，这一半的时间基本上算放松了（废物了两个多星期），接下来的时间一定不能再浪费了，留给我的时间已经不多啦（想起还要学车就好烦）。最后，在春节这个喜庆的日子，许个愿吧：在新的一年里，祝愿爸爸妈妈奶奶姥姥以及所有家人健康快乐，万事如意，一整年good luck！！！！！(这是最最最重要的)；祝愿所有朋友身体健康，都能实现自己的目标和愿望；祝愿我自己能够坚持完成weekly plan计划，坚持健身，保持好的身体状态，考试不挂，实习和考研都能有一个好的结果；另外，还希望自己能够找到一个漂亮又有趣的女朋友呀！</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h1 id=&quot;weekly-plan-very-first-published&quot;&gt;&lt;a href=&quot;#weekly-plan-very-first-published&quot; class=&quot;headerlink&quot; title=&quot;weekly plan(very first publi
+        &lt;h1 id=&quot;weekly-plan&quot;&gt;&lt;a href=&quot;#weekly-plan&quot; class=&quot;headerlink&quot; title=&quot;weekly plan&quot;&gt;&lt;/a&gt;weekly plan&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;&amp;emsp;&amp;emsp;今天是2019年2
       
     
     </summary>
